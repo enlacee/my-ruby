@@ -1,0 +1,2 @@
+
+puts "flicker " * 4
